@@ -3,10 +3,10 @@ import './global.css'
 
 import * as React from 'react'
 import { useState, useRef,useEffect, useMemo } from 'react'
-import cx from 'classnames'
+// import cx from 'classnames'
 import * as ReactDOM from 'react-dom'
 import thumbnail from './assets/thumbnail.jpg'
-ls
+
 
 import {BrowserRouter} from "react-router-dom"
 
