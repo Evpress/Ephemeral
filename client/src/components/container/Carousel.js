@@ -156,12 +156,12 @@ const Carousal = (props) => {
         setVisibleItemsProps(visibleItemsProps); // setting state for visible items
     }
 
-
     return (
         <React.Fragment>
             {loadCarousel()}
         </React.Fragment>
     )
 
-}
+
+        }
 export default Carousel
