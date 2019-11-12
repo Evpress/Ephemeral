@@ -157,24 +157,11 @@ const Carousal = (props) => {
     }
 
 
-<<<<<<< HEAD
-
-
-
-
-
-        return (
-            <React.Fragment>
-                {loadCarousel()}
-            </React.Fragment>
-        )
-=======
     return (
         <React.Fragment>
             {loadCarousel()}
         </React.Fragment>
     )
->>>>>>> a6ec12396337710926bf2c4b3858a03388fe1a98
 
 }
 export default Carousel
